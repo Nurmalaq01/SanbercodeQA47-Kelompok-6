@@ -1,6 +1,6 @@
 ![](https://sanbercode.com/assets_new/images/logo/logo-horizontal.svg)
 # QA47-Team6
-### Sanber QA47- Final Project - Team6
+### SanbercodeQA47- Final Project - Kelompok 6
 
 >__Ini untuk Final Project SanberCode QA training Batch 47__
 
