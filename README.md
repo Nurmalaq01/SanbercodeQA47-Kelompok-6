@@ -27,7 +27,7 @@ Nama Anggota :
 
 > Catatan:
 1. Project ini melakukan pengujian Manual dan Automation Testing untuk functionality dan processflow
-2. Test plan dan test case dokumentasi dalam bentuk excel file yang sudah dengan nama 
+2. Test plan dan test case dokumentasi dalam bentuk excel file dengan nama Test Plan_QA47_Team-6.xlsx
 3. Project ini menerapkan POM dengan memiliki 1 folder untuk main test, 1 folder untuk element locator dan 1 folder untuk data storage.
 4. Automation Testing menggunakan Cypress v12.17.2. dan git version 2.41.0.
-5. Semua hasil testing ( screenshot dan video recording ) akan di upload pada google drive 
+5. Semua hasil testing ( screenshot dan video recording ) akan di upload pada google drive sanberqa47.team6@gmail.com
