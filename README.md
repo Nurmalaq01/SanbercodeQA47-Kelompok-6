@@ -19,11 +19,11 @@ Nama Anggota :
 - [ ] Proceed to Checkout
 
 > Pembagian Tugas :
-1. Tugas #001 dikerjakan oleh 
-2. Tugas #002 dikerjakan oleh 
-3. Tugas #003 dikerjakan oleh
-4. Tugas #004 dikerjakan oleh 
-5. Tugas #005 dikerjakan oleh
+1. Karis Fabriyanto 
+2. Vinna Pratiwi 
+3. Jajang Jamaludin
+4. Lydia Mayasari 
+5. Ade Nisa Nurmala Sari
 
 > Catatan:
 1. Project ini melakukan pengujian Manual dan Automation Testing untuk functionality dan processflow
